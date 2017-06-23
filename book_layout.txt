@@ -3,7 +3,7 @@
 \section{ Preamble}
 
 
-\chapter1{ Introduction }
+\chapter1{ Introduction } (done)
 
         
 \chapter2{More PyMC / Modeling in PyMC}
